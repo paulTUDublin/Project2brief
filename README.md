@@ -10,8 +10,8 @@ The second project is "Specialist embedded systems project" (30% of overall grad
 
 Important dates
 
-- Release date: 28MAR2025
-- Due date: 25APR2025
+- Release date: 27MAR2026
+- Due date: 01MAY2026
 
 Students are to to propose their own project and develop a specialist embedded system that aligns with a chosen sub-discipline.
 
@@ -43,7 +43,6 @@ From the indicative content and LOs, the following criteria have been created.
 
 # Project schedule
 
-The project is 4 weeks long.
 Students are expected to work on their project outside of class time, self-directed learning is part of all modules.
  
 # Submission details
