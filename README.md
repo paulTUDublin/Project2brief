@@ -11,7 +11,7 @@ The second project is "Specialist embedded systems project" (30% of overall grad
 Important dates
 
 - Release date: 27MAR2026
-- Due date: 01MAY2026
+- Due date: 01MAY2026 (Updated to 10MAY2026)
 
 Students are to to propose their own project and develop a specialist embedded system that aligns with a chosen sub-discipline.
 
